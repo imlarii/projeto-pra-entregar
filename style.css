@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{ 
+    font-family: "Mochiy Pop One", sans-serif;}
+.cabecalho {
+    background-color: #fac5fa;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 40px;
+}
+.escola{
+    background-image: linear-gradient(#fac5fa, #fdfdfd) ;
+    color: rgb(34, 24, 117);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px ;
+    padding: 24px 0;
+}
+.imagem-campus{
+    width: 30%;
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+.imagem-estudante{
+    width: 8%;
+}
+.estudante-icone{
+    width: 3%;
+}
